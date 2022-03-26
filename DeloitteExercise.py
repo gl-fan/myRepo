@@ -2,7 +2,7 @@
 """
 Created on Mon Nov  1 19:07:53 2021
 
-@author: guanglu Fan
+@author: gFan
 """
 
 import matplotlib.pyplot as plt
